@@ -1,0 +1,54 @@
+<html>
+<head>
+<title> Cuprinsul unei c&#259r&#355i </title>
+</head>
+<body>
+<h2> Chimie organic&#259 </h2>
+<ol>
+<li> Compu&#351i organici cu grupe func&#355ionale simple </li>
+	<ul type="square">
+	<li> Clasificarea compu&#351ilor </li>
+	<li> Compu&#351i halogena&#355i</li>
+	<li> Alcooli </li>
+	<li> Fenoli </li>
+	<li> Amine </li>
+	<li> Compu&#351i carbonilici </li>
+	<li> Compu&#351i carboxilici </li>
+	<li> Deriva&#355i func&#355ionali </li>
+	</ul>
+<li> Reac&#355ii chimice ale compu&#351ilor </li>
+	<ul type="square">
+	<li> Reac&#355ii ale compu&#351ilor organici </li>
+	<li> Conversie &#351i randament</li>
+	<li> Reac&#355ii de halogenare </li>
+	<li> Reac&#355ii de alchilare </li>
+	<li> Reac&#355ii de nitrare &#351i sulfonare </li>
+	<li> Reac&#355ii de hidrogenare &#351i reducere </li>
+	<li> Reac&#355ii de polimerizare &#351i copolimerizare </li>
+	<li> Reac&#355ii de esterificare </li>
+	<li> Reac&#355ii de hidroliz&#259 </li>
+	<li> Reac&#355ii de condensare &#351i policondensare </li>
+	<li> Reac&#355ii de diazotare </li>
+	<li> Reac&#355ii de oxidare </li>
+	</ul>
+<li> Caracterul acido-bazic al unor compu&#351i organici </li>
+	<ul type="square">
+	<li> Caracter acid &#351i caracter bazic </li>
+	<li> Compu&#351i organici cu caracter acid </li>
+	<li> Compu&#351i organici cu caracter bazic </li>
+	</ul>
+<li> Izomerie Optic&#259 </li>
+	<ul type="square">
+	<li> Izomerie optic&#259 </li>
+	</ul>
+<li> Compu&#351i organici cu importan&#355&#259 biologic&#259 </li>
+	<ul type="square">
+	<li> Aminoacizi </li>
+	<li> Proteine </li>
+	<li> Monozaharide </li>
+	<li> Produ&#351i de condensare ai monozaharidelor </li>
+	<li> Acizi nucleici </li>
+	</ul>
+</ol>
+</body>
+</html>

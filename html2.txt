@@ -1,0 +1,33 @@
+<html><head>
+<title> Disciplnile Studiate </title>
+</head>
+<body>
+<h2> Disciplini 2019-2020 </h2>
+<dl>
+<dt> Biologia </dt>
+	<dd> Disciplina care m-a făcut să determin specia unei plante random de afară </dd>
+<dt> Chimia </dt>
+	<dd> Disciplina care m-a făcut să cunosc metodele de obţinere a trinitroglicerinei ȋn caz de necesitate </dd>
+<dt> Matematica </dt>
+	<dd> Disciplina care m-a pregătit moral pentru o situaţie ȋn care voi dispune de o tonă de cartofi şi va trebui să o ȋmpart cu prietenii </dd>
+<dt> Fizica </dt>
+	<dd> Disciplina care mi-a dezvoltat vederea pȃnă la o bancă distanţă de aceeaşi variantă</dd>
+<dt> Informatica </dt>
+	<dd> Disciplina care mi-a dezvoltat creativitatea şi simţul umorului </dd>
+<dt> Geografia </dt>
+	<dd> Disciplina care ȋn mod misterios este prezentă ȋn materia de olimpiadă la biologie </dd>
+<dt> Istoria </dt>
+	<dd> Disciplina care m-a ȋnvăţat că colaborarea dintre paralele este vitală </dd>
+<dt> Engleza </dt>
+	<dd> Disciplina care m-a ajutat să ȋnţeleg meme-urile </dd>
+<dt> Romana </dt>
+	<dd> Disciplina care m-a ajutat să adorm instant </dd>
+<dt> Educaţia civică</dt>
+	<dd> Disciplina care mi-a ridicat media generală </dd>
+<dt> Educaţia fizică </dt>
+	<dd> Disciplina care mă motivează să dau normativul de săritură ȋn lungime peste fereastră </dd>
+<dt> Dezvoltarea personală </dt>
+	<dd> Disciplina care mă motiva să-mi reconsider absenţele </dd>
+</dl>
+
+</body></html>
