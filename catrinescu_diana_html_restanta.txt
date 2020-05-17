@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> HTML </title>
+</head>
+<body bgcolor="#BFBED5" text="black" leftmargin="40" topmargin="10%">
+<font face="Times New Roman">
+<b>
+<h2> Limbajul de marcare HTML </h2>
+</b>
+</body>
+</html>
